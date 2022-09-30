@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    align-items: center;
+}
+.url-header{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+  
+}
+.url-header a{
+    color: rgb(37, 37, 37);
+}
+.url-header a:hover{
+    color: goldenrod;
+    transition: 0.5s;
+}
+.title-header{
+    width: 300px;
+}

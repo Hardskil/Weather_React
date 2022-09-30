@@ -1,0 +1,36 @@
+.add-view_window {
+    padding: 10px 12px;
+    background-color: rgb(179, 57, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    text-align: left;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+    display: block;
+}
+.add-view_input{
+    margin-bottom: 20px;
+}
+.input, textarea {
+    padding: 12px;
+    font-size: 1.4rem;
+    width: 600px;
+}
+textarea{
+    resize: none;
+    border-radius: 10px;
+}
+.save-view_button{
+    font-size: 1.3rem;
+    font-weight: 600;
+    transition: all 0.7s;
+}
+.save-view_button:hover{
+    background-color: rgb(123, 0, 211);
+    color: white;
+}

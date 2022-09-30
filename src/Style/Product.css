@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&family=Open+Sans:wght@300;400;700&family=Rubik:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+.Products{
+    background-color: rgba(211, 211, 211, 0.797);
+    padding: 20px;
+}
+a{
+    color:black;
+}
+.card-img{
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s;
+}
+.card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card-title{
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+    padding-block: 20px;
+}
+.card-type, .card-desc{
+    font-size: 1.2rem;
+}
+.product{
+    text-align: center;
+    
+    margin-bottom: 20px;
+}
+.product-card{
+   max-width: 400px;
+
+    transition: all 0.6s;
+}
+.card-info{
+    padding: 10px;
+}
+.product-card:hover{
+    background-color: rgb(174, 174, 174);
+    box-shadow: 0px 2px 5px 1px  black;
+}
+.product-card:hover .card-img{
+    filter: brightness(0.8);
+}
+.product-block{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+    gap: 30px;
+    justify-items: center
+}
+.block-title{
+    font-weight: 300;
+    font-size: 2rem;
+    display: inline-block;
+    padding-inline: 30px;
+    border-bottom: 1px solid black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.no-founds-text{
+    text-align: center;
+}

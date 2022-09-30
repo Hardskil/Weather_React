@@ -1,0 +1,17 @@
+.Reviews {
+    text-align: center;
+
+}
+
+.reviews-title {
+    font-size: 2rem;
+    color: rgb(129, 0, 168);
+}
+
+.reviews-description {
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,43 @@
+[
+{
+    "title": "Люовный браслет, усыпанный драгоценными камнями",
+    "oldPrice": 500000,
+    "newPrice": 300000,
+    "material": "золото",
+    "gender": "для женщин",
+    "company": "SOKOLOV",
+    "src":"https://www.cartier.com/variants/images/25372685655696407/img1/w400.jpg",
+    "id": "001"
+},
+{
+    "title": "Люовный браслет, усыпанный драгоценными камнями",
+    "oldPrice": 500000,
+    "newPrice": 300000,
+    "material": "золото",
+    "gender": "для женщин",
+    "company": "SOKOLOV",
+    "src":"https://www.cartier.com/variants/images/25372685655696407/img1/w400.jpg",
+    "id": "002"
+},
+{
+    "title": "Кулон на любой вкус и цвет",
+    "oldPrice": 50000,
+    "newPrice": 30000,
+    "material": "золото",
+    "gender": "для женщин",
+    "company": "SOKOLOV",
+    "src":"https://g3.sunlight.net/media/i/760/85/products/9228ed1d568a2373fd6e067b71bc641e8076e08d.jpg",
+    "id":"003"
+},
+{
+    "title": "Помолвочное кольцо из белого золота с бриллиантом",
+    "oldPrice": 50000,
+    "newPrice": 30000,
+    "material": "золото",
+    "gender": "для женщин",
+    "company": "SOKOLOV",
+    "src":"https://image.brilliantearth.com/media/diamond_ring_vto/4S/BE1D6013_yellow_Oval_top_75_carat.png",
+    "id": "004"
+}
+
+]

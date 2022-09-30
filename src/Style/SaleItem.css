@@ -1,0 +1,13 @@
+.old-price{
+    text-decoration: line-through;
+    color: red;
+    margin-right: 10px;
+}
+.new-price{
+    font-size: 1.5rem;
+    color: darkblue;
+}
+.price-block{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
